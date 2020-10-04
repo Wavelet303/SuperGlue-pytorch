@@ -31,7 +31,7 @@ To train the SuperGlue with default parameters, run the following command:
 python train.py
 ```
 
-### Additional useful command line parameters
+### Additional Useful Command Line Parameters
 * Use `--epoch` to set the number of epochs (default: `20`).
 * Use `--train_path` to set the path to the directory of training images.
 * Use `--eval_output_dir` to set the path to the directory in which the visualizations is written (default: `dump_match_pairs/`).
